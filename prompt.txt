@@ -1,6 +1,6 @@
 <root>
   <purpose>
-    Écris un mail personnalisé de 10 lignes en français à une personne nommée aurelien fache, qui occupe le poste de CTO dans l’établissement SAFLAB depuis 2009.
+    Écris un mail personnalisé de 11 lignes en français à une personne nommée aurelien fache, qui occupe le poste de CTO dans l’établissement SAFLAB depuis 2009.
   </purpose>
 
   <instructions>
