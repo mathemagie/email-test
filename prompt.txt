@@ -1,6 +1,6 @@
 <root>
   <purpose>
-    Écris un mail personnalisé en français à une personne nommée aurelien fache, qui occupe le poste de CTO dans l’établissement SAFLAB depuis 2009.
+    Écris un mail personnalisé de 10 lignes en français à une personne nommée aurelien fache, qui occupe le poste de CTO dans l’établissement SAFLAB depuis 2009.
   </purpose>
 
   <instructions>
@@ -12,6 +12,7 @@
     6. Le ton doit être professionnel, chaleureux, et respectueux.
     7. Inclure une reconnaissance de l’ancienneté et du rôle de la personne dans l’organisation.
     8. Utilise une structure classique de mail : salutation, corps du message, formule de politesse.
+    9. Le mail généré doit obligatoirement être inclus dans une balise <email>.
   </instructions>
 
   <example-output>
