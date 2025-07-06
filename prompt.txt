@@ -1,0 +1,28 @@
+<root>
+  <purpose>
+    Écris un mail personnalisé en français à une personne nommée aurelien fache, qui occupe le poste de CTO dans l’établissement SAFLAB depuis 2009.
+  </purpose>
+
+  <instructions>
+    1. Remplace [Prénom] par "Christelle".
+    2. Remplace [Nom] par "ABALEA".
+    3. Remplace [Poste] par "Directeur".
+    4. Remplace [Établissement] par "Account".
+    5. Remplace [Date] par "2019".
+    6. Le ton doit être professionnel, chaleureux, et respectueux.
+    7. Inclure une reconnaissance de l’ancienneté et du rôle de la personne dans l’organisation.
+    8. Utilise une structure classique de mail : salutation, corps du message, formule de politesse.
+  </instructions>
+
+  <example-output>
+    <email>
+      Bonjour Christelle,
+
+      Je tenais à vous adresser ce message pour souligner votre engagement et votre parcours impressionnant en tant que Directeur au sein d’Account depuis 2019. Votre implication constante et votre leadership ont, sans aucun doute, marqué positivement l’évolution de l’établissement.
+
+      Merci pour votre professionnalisme et votre dévouement.
+
+      Bien cordialement,  
+    </email>
+  </example-output>
+</root>
